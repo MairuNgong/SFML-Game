@@ -1,0 +1,3 @@
+﻿  Enemy.cpp
+C:\Users\USER\source\repos\SFML-Game\SFML-Game\Enemy.cpp(189,71): warning C4244: '=': conversion from 'sf::Int32' to 'float', possible loss of data
+  SFML-Game.vcxproj -> C:\Users\USER\source\repos\SFML-Game\x64\Debug\SFML-Game.exe
